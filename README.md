@@ -15,11 +15,11 @@ Demo:
 https://drive.google.com/file/d/1JJs0QhkjR84hMNs4kIlMeASqUpP16L--/view?usp=sharing
 
 Technilogy : 
-Framework :- Flutter
-Language :- Dart
-Database and backend :- sqlite , firestore
-Authentication :- firebase auth
-Architecture :-  Flutter Bloc
+1. Framework :- Flutter
+2. Language :- Dart
+3. Database and backend :- sqlite , firestore
+4. Authentication :- firebase auth
+5. Architecture :-  Flutter Bloc
 
 How to setup:-
 1. download flutter sdk file from flutter website
