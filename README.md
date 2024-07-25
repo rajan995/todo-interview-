@@ -3,12 +3,13 @@ Features:
 1. Login : using email and password 
 2. Signup : using email and password
 3. logout :- when we click on drawer then click on logout button for logout current user
-4. todo listing screen :- we see all todo list
-5. Pull to refresh feature on todo listing screen
-6. Sync icon on appbar for sync todo data with firestore database
-7. on todo list we have edit and delete, complete feature 
-8. using sqlite (sqflite Plugin) for store data in local storage 
-9. Apply loader on every button or icon that need response from firestore , sqlie, firebase auth.
+4. click on plus icon on bottom for add new todo item
+5. todo listing screen :- we see all todo list
+6. Pull to refresh feature on todo listing screen
+7. Sync icon on appbar for sync todo data with firestore database
+8. on todo list we have edit and delete, complete feature 
+9. using sqlite (sqflite Plugin) for store data in local storage 
+10. Apply loader on every button or icon that need response from firestore , sqlie, firebase auth.
 
 Demo:
 https://drive.google.com/file/d/1JJs0QhkjR84hMNs4kIlMeASqUpP16L--/view?usp=sharing
